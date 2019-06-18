@@ -16,7 +16,7 @@ Right now you can do the following with MovieBuddy's:
 
 ## Install
 
- 1. Install NPM & Mysql on your machine (Tutorials can be found at the bottom of the page.)
+ 1. Install NPM, Mysql & Brew on your machine (Tutorials can be found at the bottom of the page.)
  2. Fork this repository
  3. git clone https://github.com/bengtbennink/be-assesment-2.git
  4. Install modules
@@ -28,3 +28,5 @@ I have deployed the app via Heroku. It can be found here: [MovieBuddy](https://y
 ## Install Tutorials 
 1. [How to install NPM](https://www.youtube.com/watch?v=rF1ZHmqvm8I)
 2. [How to install MySQL](https://www.youtube.com/watch?v=UcpHkYfWarM)
+3. [How to install BREW](https://www.youtube.com/watch?v=N-SDrN4G4lE)
+
