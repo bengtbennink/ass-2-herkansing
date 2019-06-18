@@ -16,7 +16,15 @@ Right now you can do the following with MovieBuddy's:
 
 ## Install
 
- 1. Fork this repository
- 2. git clone https://github.com/bengtbennink/be-assesment-2.git
- 3. Install & start NPM
+ 1. Install NPM & Mysql on your machine (Tutorials can be found at the bottom of the page.)
+ 2. Fork this repository
+ 3. git clone https://github.com/bengtbennink/be-assesment-2.git
+ 4. Install modules
+ 5. Use Nodemon start to start server
 
+## Additions 05-2019
+I have deployed the app via Heroku. It can be found here: [MovieBuddy](https://young-mountain-34305.herokuapp.com/). It was a real struggle to get the app online because several errors popped up inside the Heroku terminal. I've managed to tackle them all with loads of work and some help from [Marijn](https://github.com/Marijnone).
+
+## Install Tutorials 
+1. [How to install NPM](https://www.youtube.com/watch?v=rF1ZHmqvm8I)
+2. [How to install MySQL](https://www.youtube.com/watch?v=UcpHkYfWarM)
