@@ -8,9 +8,9 @@
   "scripts": {
     "start": "node index.js"
   },
-  "homepage": "https://github.com/bengtbennink/be-assessment-2",
-  "repository": "be-assessment-2",
-  "bugs": "https://github.com/bengtbennink/be-assessment-2/issues",
+  "homepage": "https://github.com/bengtbennink/ass-2-herkansing",
+  "repository": "ass-2-herkansing",
+  "bugs": "https://github.com/bengtbennink/ass-2-herkansing/issues",
   "author": "Bengt Bennink <benninkbengt@gmail.com>",
   "contributors": [
     "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)",
